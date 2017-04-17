@@ -1,0 +1,29 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Live TV</name>
+<thumbnail>https://blessingtvblog.files.wordpress.com/2015/05/shutterstock_123974818.jpg</thumbnail>
+<externallink>https://github.com/nh0kl0v3bx/Aus/blob/master/live.txt</externallink>
+<fanart>http://www.giraffic.com/wp-content/uploads/2016/07/Dollarphotoclub_93585774.jpg</fanart>
+<info>Daniel Doan</info>
+</channel>
+
+<channel>
+<name>Movies</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channel>
+<name>Youtube</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+</channels>
