@@ -1,0 +1,7 @@
+<item>
+<title>NationalABC News 24</title>
+<link>http://iphonestreaming.abc.net.au/news24/news24.m3u8</link>
+<thumbnail>http://3.bp.blogspot.com/_xKgr8bd-MyY/TEhT-gUWCrI/AAAAAAAAC04/4IgsiOaE9dA/s1600/abc+news+24.jpg</thumbnail>
+<fanart>http://dannews.co.nz/abc_news_24_live.jpg</fanart>
+</item>
+
