@@ -1,0 +1,147 @@
+#EXTM3U
+#EXTINF:0,National
+http://dantri.com.au
+#EXTINF:0,ABC News 24
+http://iphonestreaming.abc.net.au/news24/news24.m3u8
+#EXTINF:0,RACING.COM
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224825/MISC1/master.m3u8
+#EXTINF:0,Fox Sports News
+http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/index_4628_av-p.m3u8
+#EXTINF:0,Bloomberg
+http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M24K.m3u8
+#EXTINF:0,ACCTV
+http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_14949_1.m3u8
+#EXTINF:0,Fetch TV Movie Trailers
+http://cdnl.fetchtv.micdn.net.au//trail/mobile.m3u8
+#EXTINF:0,Skuff TV
+http://ii-only-fz.cdn.iinet.net.au/20051/_definst_/skufftvlinear/playlist.m3u8
+#EXTINF:0,C music TV
+mmsh://streaming.cmusic.tv/cmusic-tv?MSWMExt=.asf
+#EXTINF:0,Hillsong TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN20_delivery@394530/index_2528_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Sydney
+http://dantri.com.au
+#EXTINF:0,Seven
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224814/SYD1/master.m3u8
+#EXTINF:0,7TWO
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224827/SYD2/master.m3u8
+#EXTINF:0,7mate   
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224840/SYD3/master.m3u8	
+#EXTINF:0,7flix      
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224857/SYD6/master.m3u8
+#EXTINF:0,Channel 9
+https://9nowch9livehls-i.akamaihd.net/hls/live/250964/sydney/master1.m3u8			
+#EXTINF:0,9Gem
+https://9nowgemlivehls-i.akamaihd.net/hls/live/250974/sydney/master1.m3u8	
+#EXTINF:0,9Go
+https://9nowgolivehls-i.akamaihd.net/hls/live/250987/sydney/master1.m3u8			
+#EXTINF:0,9Life
+https://9nowlifelivehls-i.akamaihd.net/hls/live/250994/sydney/master1.m3u8
+#EXTINF:0,Ten
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTEN.m3u8
+#EXTINF:0,Melbourne	
+http://dantri.com.au						
+#EXTINF:0,Seven   
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224813/MEL1/master.m3u8	
+#EXTINF:0,7TWO     
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224826/MEL2/master.m3u8		
+#EXTINF:0,7mate  
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224839/MEL3/master.m3u8				
+#EXTINF:0,7flix     
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224856/MEL6/master.m3u8	
+#EXTINF:0,Channel 9
+https://9nowch9livehls-i.akamaihd.net/hls/live/250962/melbourne/master1.m3u8		
+#EXTINF:0,9Gem
+https://9nowgemlivehls-i.akamaihd.net/hls/live/250972/melbourne/master1.m3u8
+#EXTINF:0,9Go!	
+https://9nowgolivehls-i.akamaihd.net/hls/live/250977/melbourne/master1.m3u8		
+#EXTINF:0,9Life
+https://9nowlifelivehls-i.akamaihd.net/hls/live/250992/melbourne/master1.m3u8	
+#EXTINF:0,Ten	                
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDATV.m3u8
+#EXTINF:0,C31         
+http://c31.mediafoundry.com.au/sites/default/files/manifest/manifest_live_27.m3u8			
+#EXTINF:0,CTV Fishing 
+http://manifester.mediafoundry.com.au/stream/c31melbourne_fishing/playlist.m3u8
+#EXTINF:0,Brisbane
+http://dantri.com.au
+#EXTINF:0,Seven    
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224815/BRI1/master.m3u8
+#EXTINF:0,7TWO     
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224828/BRI2/master.m3u8	
+#EXTINF:0,7mate     
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224841/BRI3/master.m3u8
+#EXTINF:0,7flix     
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224858/BRI6/master.m3u8	
+#EXTINF:0,Channel 9
+https://9nowch9livehls-i.akamaihd.net/hls/live/250961/brisbane/master1.m3u8				
+#EXTINF:0,9Gem
+https://9nowgemlivehls-i.akamaihd.net/hls/live/250971/brisbane/master1.m3u8
+#EXTINF:0,9Go!
+https://9nowgolivehls-i.akamaihd.net/hls/live/250976/brisbane/master1.m3u8		
+#EXTINF:0,9Life
+https://9nowlifelivehls-i.akamaihd.net/hls/live/250991/brisbane/master1.m3u8
+#EXTINF:0,Ten       	
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDTVQ.m3u8
+#EXTINF:0,Adelaide
+http://dantri.com.au
+#EXTINF:0,Seven   
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224816/ADE1/master.m3u8	
+#EXTINF:0,7TWO     
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224829/ADE2/master.m3u8				
+#EXTINF:0,7mate    
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224842/ADE3/master.m3u8	
+#EXTINF:0,7flix
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224859/ADE6/master.m3u8
+#EXTINF:0,Channel 9
+https://9nowch9livehls-i.akamaihd.net/hls/live/250960/adelaide/master1.m3u8			
+#EXTINF:0,9Gem
+https://9nowgemlivehls-i.akamaihd.net/hls/live/250970/adelaide/master1.m3u8
+#EXTINF:0,9Go!	
+https://9nowgolivehls-i.akamaihd.net/hls/live/250975/adelaide/master1.m3u8		
+#EXTINF:0,9Life
+https://9nowlifelivehls-i.akamaihd.net/hls/live/250990/adelaide/master1.m3u8
+#EXTINF:0,Ten                 
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDADS.m3u8
+#EXTINF:0,C44	             
+http://manifester.mediafoundry.com.au/master/t/c44adelaide_1/manifest.m3u8
+#EXTINF:0,Perth
+http://dantri.com.au
+#EXTINF:0,Seven
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224817/PER1/master.m3u8				
+#EXTINF:0,7TWO
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224830/PER2/master.m3u8				
+#EXTINF:0,7mate
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224843/PER3/master.m3u8	
+#EXTINF:0,7flix
+https://sevenwestmedia01-i.akamaihd.net/hls/live/224860/PER6/master.m3u8	
+#EXTINF:0,Channel 9
+https://9nowch9livehls-i.akamaihd.net/hls/live/250963/perth/master1.m3u8			
+#EXTINF:0,9Gem
+https://9nowgemlivehls-i.akamaihd.net/hls/live/250973/perth/master1.m3u8				
+#EXTINF:0,9Go!
+https://9nowgolivehls-i.akamaihd.net/hls/live/250978/perth/master1.m3u8				
+#EXTINF:0,9Life
+https://9nowlifelivehls-i.akamaihd.net/hls/live/250993/perth/master1.m3u8
+#EXTINF:0,Ten                
+http://csm-e.cds1.yospace.com/csm/extlive/networkten01,SDNEW.m3u8	
+#EXTINF:0,WTV	           
+http://manifester-wtvperth.mediafoundry.com.au/stream/wtvperth/playlist.m3u8	
+#EXTINF:0,NSW
+http://dantri.com.au				
+#EXTINF:0,Sky Racing 1
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8			
+#EXTINF:0,Sky Racing 2             
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2.m3u8		
+#EXTINF:0,Thoroughbred	
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw_extreme@219670.m3u8
+#EXTINF:0,Special Broadcasting Service (SBS)
+http://dantri.com.au
+#EXTINF:0,SBS ONE
+http://sbslivefvstreaming.sbs.com.au/out/u/sbs1-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad.m3u8
+#EXTINF:0,SBS VICELAND
+http://sbslivefvstreaming.sbs.com.au/out/u/sbs2-mo-000-c3093-delpkg1-delpkg1-abr/index-root-ipad.m3u8
+#EXTINF:0,Food Network
+http://sbslivefvstreaming.sbs.com.au/out/u/fdnet-mo-000-c3094-delpkg1-delpkg1-abr/index-root-ipad.m3u8
+#EXTINF:0,NITV	
+http://sbslivefvstreaming.sbs.com.au/out/u/nitv-mo-000-c3094-delpkg1-delpkg1-abr/index-root-ipad.m3u8
